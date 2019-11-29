@@ -1,1 +1,1 @@
-This set of sample python scripts to display some of the great ways that current developments in programming can assist the actuary in their daily work. These example are ment to show a variety of application at a very simple level, in a very easy way to understand. The conversation of further development in one area is the next step.
+This collection of python scripts...tbd
